@@ -54,7 +54,7 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
-  - blog:              Blog
+  - title:              Blog
     url:               /blog/
 
 # Add links to the footer.
