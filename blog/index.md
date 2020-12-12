@@ -1,4 +1,3 @@
-# file: `my-blog/index.html`
 ---
 layout: blog
 title: Blog
