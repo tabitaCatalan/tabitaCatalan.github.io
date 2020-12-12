@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Mi primer post
 description: >
   Mi primera entrada en mi blog! Solo para probar.
