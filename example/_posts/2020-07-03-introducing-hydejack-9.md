@@ -16,6 +16,13 @@ Version 9 is the most complete version of Hydejack yet.
 - Table of Contents
 {:toc .large-only}
 
+
+## Una prueba iframe 
+
+<iframe src="http://covid-19vis.cmm.uchile.cl/chart" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+
+
+
 ## Linking in Style
 
 Ever since the introduction of Dark Mode, link styles have been a bit of an issue. Specifically, finding an accent color that worked on both light and dark backgrounds was the problem. With Hydejack 9, the [link style](#linking-in-style) has been revamped so that legibility is no longer tied to the choice of accent_color, giving you much more freedom in creating a unique design flavor for your site.
@@ -83,5 +90,9 @@ The PRO Version is scheduled to release on July 7th on Gumroad. Pre-Orders are o
       Search was mainly tested for English and German. Please let me know about issues in other languages. 
       While I've tried to find a multi-language solution, most showed drastically worse  results for the English base case.
       If you're technically inclined, you can adopt the code located in `_includes/js/search-worker.js` to your needs.
+
+
+
+
 
 
