@@ -19,7 +19,7 @@ Version 9 is the most complete version of Hydejack yet.
 
 ## Una prueba iframe 
 
-<iframe src="http://covid-19vis.cmm.uchile.cl/chart" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+<iframe src="https://observablehq.com/@bumbeishvili/kepler-gl-iframe" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 
 
 
